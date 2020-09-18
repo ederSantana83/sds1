@@ -1,3 +1,7 @@
 git init
 git remote add origin https://github.com/ederSantana83/sds1.git
 git add .
+git config --global user.name "Eder Sant'ana"
+git config --global user.email "edersana@gmail.com"
+git commit -m "Project Created"
+git push -u origin master
